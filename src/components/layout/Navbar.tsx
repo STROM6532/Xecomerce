@@ -10,6 +10,7 @@ const navLinks = [
   { href: '/products', label: 'Products' },
   { href: '/recommendations', label: 'For You', icon: Sparkles },
   { href: '/dashboard', label: 'Dashboard' },
+  { href: '/About', label: 'About Us' }
 ];
 
 export const Navbar = () => {

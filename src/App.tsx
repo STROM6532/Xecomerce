@@ -10,6 +10,7 @@ import Login from "./pages/Login";
 import Recommendations from "./pages/Recommendations";
 import Dashboard from "./pages/Dashboard";
 import NotFound from "./pages/NotFound";
+import { About } from "./pages/About";
 
 const queryClient = new QueryClient();
 

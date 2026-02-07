@@ -112,10 +112,10 @@ export const Footer = () => {
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-sm text-muted-foreground">
-            © 2024 ShopAI. All rights reserved.
+            © 2026 ShopAI. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
-            Powered by AI • Made with ❤️
+            Made by XE-commerce Team 
           </p>
         </div>
       </div>
